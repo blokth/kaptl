@@ -1,0 +1,20 @@
+
+{
+  "categories": {
+    "Ready to Assign": 0,
+    "Needs & Musts": {
+      "Groceries": 0,
+      "Utilities": 0,
+      "Rent": 0
+    },
+    "Wants": {
+      "Dining Out": 0,
+      "Entertainment": 0
+    },
+    "Savings & Goals": {
+      "Vacation": 0,
+      "New Laptop": 0
+    }
+  },
+  "transactions": []
+}
